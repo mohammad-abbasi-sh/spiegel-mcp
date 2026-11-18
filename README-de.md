@@ -71,7 +71,7 @@ Tests: 36/36 grün (28 offline + 8 live, 15.11.2026).
 
 ## Lizenz
 
-MIT
+[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
 ---
 
